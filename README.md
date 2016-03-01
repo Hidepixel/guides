@@ -17,7 +17,7 @@
 - Use UTF-8 for all files.
 
 
-## C\#
+## C# #
 
 ### Naming
 
