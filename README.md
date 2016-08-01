@@ -46,3 +46,4 @@
 ### Formatting
 
 - Use 2 space indentation (no tabs).
+- Use single quotes (`'`) when defining strings.
